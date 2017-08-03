@@ -1,4 +1,4 @@
-##create-react-app redux-boilerplate
+## create-react-app redux-boilerplate
 
 A simple boilerplate for implementing redux in create-react-app without ejecting.  You can either clone and delete the git repo or simply copy the contents of the src folder into a project generated with create-react-app.
 
