@@ -13,8 +13,10 @@ const Routes = () => (
     </header>
 
     <main>
+      <div className="container">
       <Route exact path="/" component={Home} />
       <Route exact path="/about" component={About} />
+      </div>
     </main>
   </div>
 )
